@@ -8,20 +8,20 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Controle AMIMOTO helper plugins
+AMIMOTO Plugin Dashboard for easy control of AMIMOTO plugins  
 
 == Description ==
 
-This plugin controlling AMIMOTO helper plugins. You can easy use AMIMOTO helper plguin in this plugin admin panel.
-Now supporded following plugins.
+AMIMOTO Plugin Dashboard is for easy control of AMIMOTO add-on plugins. You can use AMIMOTO helper plugin in the admin panel.
+The following plugins are now supported: 
 
-- Nginx Cache Controller: Control Nginx reverse proxy cache.
-- C3 CloudFront Cache Controller: Control Amazon CloudFront.
-- Nephila Clavata: Upload media file to Amazon S3.
+- Nginx Cache Controller: Controls Nginx reverse proxy cache.
+- C3 CloudFront Cache Controller: Controls Amazon CloudFront.
+- Nephila Clavata: Uploads media file to Amazon S3.
 
 == Installation ==
 
-You can two ways to install this plugin.
+You can install this plugin in two ways:  
 
 a. Upload this directory to `/wp-content/plugins/` directory.
 b. Activate the plugin through the 'Plugins' menu in WordPress.
